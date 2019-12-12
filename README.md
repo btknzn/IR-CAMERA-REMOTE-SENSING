@@ -1,5 +1,5 @@
 # IR-CAMERA-REMOTE-SENSING
- Aim of this project to undestanding how many people in one room with Thermal Image Processing.I made one system which can detect %76 Percent(0 person, 1 person, 2 people and 3 people in room). Please read PDF to understand your project. You can also find 3D printer Design. 
+ Aim of this project to undestanding how many people in one room with Thermal Image Processing.I made one system which can detect %76 Percent(0 person, 1 person, 2 people and 3 people in room). Please read PDF to understand your project. You can also find 3D printer Design for camera and also electronic parts. 
 
  In our project, we selected Teensy 3.6 as an our Micro-controller because of its ARM cortex processer (32bit 180MHZ). It is fast and in our Project we are going to make a lot of mathematical calculation with big sized arrays. For this reason, Teensy 3.6 is perfect selection for us. 
  
